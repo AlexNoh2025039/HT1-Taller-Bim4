@@ -6,4 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './body.component.html',
   styleUrl: './body.component.scss',
 })
-export class Body {}
+export class BodyComponent { }
